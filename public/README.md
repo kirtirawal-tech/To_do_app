@@ -28,8 +28,6 @@ npm start
 7. To edit or delete a task, click the corresponding buttons next to the task.
 8. Enjoy organizing your tasks with MyTo-DoApp!
 
-## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md).
 
 
